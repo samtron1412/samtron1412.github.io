@@ -1,0 +1,25 @@
+name: Son Tran
+url: http://samtron1412.github.io
+destination: ./_site
+twitter: samtron1412
+lsi: false
+port: 4000
+markdown: kramdown
+future: true
+kramdown:
+  parse_block_html: true
+  syntax_highlighter: rouge
+permalink: pretty
+#paginate: 5
+gems:
+  - jekyll-sitemap
+
+exclude:
+  - validate.rb
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - bower_components
+  - update-vendor-deps.sh
+  - vendor/bundle
+  - vendor/bower.json

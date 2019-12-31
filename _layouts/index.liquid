@@ -1,0 +1,43 @@
+---
+layout: base
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-1 vcenter idxHdr">
+      <div style='font-size: 2em; color: #4582ec; font-weight: bold; padding-bottom: 0.3em;'>Son Tran</div>
+
+      {% comment %} <div style='font-size: 1.2em;'> {% endcomment %}
+      {% comment %}   Research Scientist {% endcomment %}
+      {% comment %} </div> {% endcomment %}
+      {% comment %} <div style='font-size: 1.2em'> {% endcomment %}
+      {% comment %}   <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI (FAIR)</a> {% endcomment %}
+      {% comment %} </div> {% endcomment %}
+      {% comment %} <br/> {% endcomment %}
+
+      <div style="padding: 0.3em; background-color: #4582ec; display: inline-block; border-radius: 4px; font-size: 1.2em;">
+        <a href="data/cv.pdf" target='_blank' style='text-decoration: none;'>
+          <i style='color: white' class="fa fa-download"></i>
+        </a>
+        <a href="https://github.com/samtron1412/cv" target='_blank' style='text-decoration: none;'>
+          <i style='color: white' class="fa fa-code-fork"></i>
+        </a>
+        <a href="data/cv.pdf" target='_blank' style='color: white; text-decoration: none;'>CV</a>
+      </div>
+
+    </div>
+    <div class="col-md-2 vcenter idxHdr">
+      <a href="/images/me-large.jpg">
+        <img src="/images/me.jpg"
+             style="border-radius: 20px; margin: 10px; max-width: none;"
+             alt="Me."/>
+      </a>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      {{ content }}
+    </div>
+  </div>
+</div>
