@@ -1,4 +1,5 @@
  I am an undergraduate (senior) at <b>UC Berkeley</b>. I am interested in robotics, optimization problems, and applications in machine learning, including reinforcement learning and computer vision. <br><br>
+I am teaching two [EE16B](https://inst.eecs.berkeley.edu/~ee16b/sp20/) (Designing Information Devices and Systems II) discussion sections this semester. I will post my discussion slides and other resources for the course on this site, and you can access it through [this link](teaching/16b-sp20/). <br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
