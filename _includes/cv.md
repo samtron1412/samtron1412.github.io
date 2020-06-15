@@ -103,7 +103,7 @@ I am teaching two [EE16B](https://inst.eecs.berkeley.edu/~ee16b/su20/) (Designin
 
 
 ## <i class="fa fa-chevron-right"></i> Coursework
-+ Introduction to Machine Learning (CS 189/289A), Alexandre Bayen, Sp2020
++ Introduction to Machine Learning (CS 189/289A), Jonathan Shewchuk, Sp2020
 + Robotic Manipulation and Interaction (EECS C106B/206B), Shankar Sastry and Ruzena Bajcsy, Sp2020
 + Optimization Models in Engineering (EE127), Alexandre Bayen, Fa2019
 + Introduction to Robotics (EE106A), Shankar Sastry, Fa2019
