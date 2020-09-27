@@ -1,12 +1,12 @@
  I am an undergraduate (senior) at <b>UC Berkeley</b>. I am interested in robotics, optimization problems, and applications in machine learning, including reinforcement learning and computer vision. <br><br>
-I am teaching two [EE16B](https://inst.eecs.berkeley.edu/~ee16b/su20/) (Designing Information Devices and Systems II) discussion sections this semester. I will post my discussion slides and other resources for the course on this site, and you can access it through [this link](teaching/16b-su20/). <br><br>
+I am teaching two [EE16B](https://inst.eecs.berkeley.edu/~ee16b/fa20/) (Designing Information Devices and Systems II) discussion sections this semester. I will post my discussion slides and other resources for the course on this site, and you can access it through [this link](teaching/16b-fa20/). <br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2018 - Present</td>
+    <td class="col-md-3">Aug 2018 - Dec 2020</td>
     <td>
         <strong>B.S. in EECS</strong>
           (3.93/4.00)
@@ -80,6 +80,10 @@ I am teaching two [EE16B](https://inst.eecs.berkeley.edu/~ee16b/su20/) (Designin
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
+  <td class='col-md-1'>Fa2020</td>
+  <td><strong>Designing Information Devices, and Systems II</strong> (EE16B), Teaching Assistant (TA)</td>
+</tr>
+<tr>
   <td class='col-md-1'>Su2020</td>
   <td><strong>Designing Information Devices, and Systems II</strong> (EE16B), Teaching Assistant (TA)</td>
 </tr>
@@ -103,6 +107,9 @@ I am teaching two [EE16B](https://inst.eecs.berkeley.edu/~ee16b/su20/) (Designin
 
 
 ## <i class="fa fa-chevron-right"></i> Coursework
++ Operating Systems and System Programming, John Kubiatowicz, Fa2020
++ Probability and Random Processes, Shyam Parekh, Fa2020
++ Signals and Systems, Jaijeet Roychowdhury, Fa2020
 + Introduction to Machine Learning (CS 189/289A), Jonathan Shewchuk, Sp2020
 + Robotic Manipulation and Interaction (EECS C106B/206B), Shankar Sastry and Ruzena Bajcsy, Sp2020
 + Optimization Models in Engineering (EE127), Alexandre Bayen, Fa2019
@@ -149,13 +156,13 @@ I am teaching two [EE16B](https://inst.eecs.berkeley.edu/~ee16b/su20/) (Designin
 <tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-Python, Java, C, C++, bash, *MATHLAB*
+Python, Java, C, C++, bash, JavaScript, HTML, CSS *MATHLAB*
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Frameworks</td>
   <td markdown="1">
-NumPy, SciPy, Apache Spark, Apache Hadoop, Apache Kafka
+Git, Docker, Vagrant, PyTorch, TensorFlow, NumPy, SciPy, Apache Spark, Apache Hadoop, Apache Kafka
   </td>
 </tr>
 <tr>
